@@ -40,3 +40,8 @@
 **Apply a commit to current branch** : `git cherry-pick <commit>`
 **Rebase current branch onto another** : `git rebase <branch>`
 **See who changed each line of a file** : `git blame <file>`
+**Undo a commit by creating a new one** : `git revert <commit>`
+**Search for patterns in tracked files** : `git grep <pattern>`
+**List tracked files** : `git ls-files`
+**See a log of all reference changes** : `git reflog`
+**Check Git file system integrity** : `git fsck`
