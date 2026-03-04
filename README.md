@@ -54,6 +54,10 @@ The script will install the following:
    The script will automatically update your system, install the tools, and configure Android USB support.
 
 
+### Updates
+
+You can use the 'git_cheat_sheet.md' file to get an idea of how to use Git.
+
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
