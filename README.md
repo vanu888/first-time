@@ -20,6 +20,7 @@ The script will install the following:
 ## Usage
 
 ### Prerequisites
+
 - A Linux machine running a Debian-based distribution (Ubuntu, etc.).
 - A terminal with `sudo` privileges.
 
@@ -29,9 +30,9 @@ The script will install the following:
    Clone or download the `setup.sh` script to your machine.
 
    ```bash
-   git clone https://github.com/vanu888/first-time.git
+   git clone https://github.com/vihanga-anuththara/first-time.git
    cd first-time
-    ```
+   ```
 
 2. **Make the Script Executable**
 
@@ -53,7 +54,6 @@ The script will install the following:
 
    The script will automatically update your system, install the tools, and configure Android USB support.
 
-
 ### Updates
 
 You can use the 'git_cheat_sheet.md' file to get an idea of how to use Git.
@@ -64,7 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Support
 
-For any questions or suggestions, feel free to [open an issue](https://github.com/vanu888/first-time/issues) on Github.
-
-
-
+For any questions or suggestions, feel free to [open an issue](https://github.com/vihanga-anuththara/first-time/issues) on Github.
